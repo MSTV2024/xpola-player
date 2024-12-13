@@ -1,0 +1,3 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
+http://stream.mytvplus.net:7002/sport/ch1/ch1_360.m3u8
